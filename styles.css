@@ -7,10 +7,6 @@
     align-items: center;
     justify-content: center;
     margin: auto;
-
-    
-
-  
 }
 main{
     background-color: rgb(34, 30, 30);
@@ -26,13 +22,10 @@ main{
 #title, p{
     text-align: center;
     font-weight: 555%;
-
 }
-
 #list{
     text-align: left;
     font-family: sans-serif;
-
 }
 footer{
     text-align: center;
